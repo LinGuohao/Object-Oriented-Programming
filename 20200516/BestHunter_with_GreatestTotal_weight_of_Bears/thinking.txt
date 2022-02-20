@@ -1,0 +1,23 @@
+Daniel 2017.02.12 rabbit 15 bear 240
+Daniel 2017.03.02. deer 100 befar 280 fox 25
+Jacob 2017.02.12 bear 150 bear 210
+Pete 2017.04.05 bear 200 rabbit 20 bear 50 bear 30 bear 50 
+Pete 2017.04.15 fox 30
+Sam 2017.04.05 wolf 300 rabbit 20
+
+while (f>>a)
+{
+"process a"
+}
+
+Daniel 2017.02.12 240  //Hunting
+Daniel 2017.03.02. 0
+Jacob 2017.02.12 360 //this is what optElem() will return
+Pete 2017.04.05 330 
+Pete 2017.04.15 0
+Sam 2017.04.05 0
+
+we will apply two algorithmic patterns:
+- main program: conditional maxsearch
+- in each line: summation
+

@@ -1,0 +1,5 @@
+Savatage metal Venice 1 2700 London 0 28000
+TakeThat pop NewYork 0 40000
+AC/DC rock London 1 20000 Budapest 1 40000
+Queen rock London 1 25000 Paris 1 18000 Rome 1 31000
+

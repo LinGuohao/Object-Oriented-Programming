@@ -1,0 +1,6 @@
+4
+Z 50
+X 80
+C 30
+X 40
+OOOOSSTSSOO

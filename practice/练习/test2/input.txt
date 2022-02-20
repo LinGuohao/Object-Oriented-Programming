@@ -1,0 +1,3 @@
+PYPL January C++ 5.6 Haskell 3.2 Java 8.5 JavaScript 7 Python 9.5
+TIOBE February C++ 7.8 Haskell 3 Java 8.9 JavaScript 6.2 Python 8.9 JavaScript 6.2
+ELTE March C++ 9.5 Pascal 10 Python 3 Pascal 10 Pascal 10 Pascal 10 Pascal 10 Pascal 10 Python 3 Python 3 Python 3

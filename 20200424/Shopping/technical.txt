@@ -1,0 +1,8 @@
+Szamitogep 134000
+Telefon 20000
+Telefon 10000
+Telefon 20000
+Telefon 40000
+Lampa 4000
+Szamitogep 240000
+Lampa 1500

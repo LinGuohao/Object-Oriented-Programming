@@ -1,0 +1,10 @@
+At every competition of the National Angling Championship, the results of the
+competitors were recorded and put into a text file. Every line of the file contains the name
+of the angler the ID of the competition (string without spaces), and the species and the
+size of the caught fishes (pair of a string without spaces and a natural number). Data is
+separated by space or tab. The lines of the file are ordered by the name of the anglers.
+The file is assumed to be in the correct form. Sample line in the file:
+Peter LAC0512 carp 45 carp 53 catfish 96
+(1) Give the average number of caught catfishes. If no catfish is caught, the average is
+zero.
+(2) Name the angler who has caught the biggest number of catfishes.

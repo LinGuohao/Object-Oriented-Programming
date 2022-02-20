@@ -1,0 +1,7 @@
+Peter 1063Szinyei run100 3 swimming500 1 highjump 3
+john 1063Szinyei run100 6 swimming500 2 
+Diao 1063Szinyei run100 4 highjump 2
+Martha 1064Szinyei run100 5 swimming500 5 highjump 4
+bartha 1064Szinyei swimming500 4 highjump 5
+Hean 1065Szinyei run100 2 swimming500 3 highjump 6
+T'chala 1065Szinyei run100 1 swimming500 1 highjump 1

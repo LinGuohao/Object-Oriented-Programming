@@ -1,0 +1,25 @@
+Peti literature presentation 3 written-exam 5
+Dani music homework 4 homework 4 presentation 5
+Feri literature written-exam 1 presentation 1 essay 2 homework 4
+Feri mathematics written-exam 5 presentation 4 proof 5
+
+(presentation 3) is a Mark type of element.	
+(Feri mathematics 4.66667) is a Student type of element
+
+We can solve the problem (find the subject where the average is the greatest) by applying maximum search on Student type of elements.
+
+The Average class enables us to calculate the sum and count of grades for a given subject. As we aim to calculate the two in a combined summation, the func function has to return a (sum,count) pair: 
+  
+summation
+func: Mark -> ZxZ
+func(e) = (e.grade,1)
+
+For example:
+f((presentation 3)) = (3,1)
+f((written-exam 5)) = (5,1)
+
+Then, we have to define what does the addition of two values mean:
+a+b = (a1+b1,a2+b2), where 'a' and 'b' are (sum,count) pairs.
+
+The (sum,count) pairs are called Result type of values.
+Of course, the neutral element in this case is the (0,0) pair.

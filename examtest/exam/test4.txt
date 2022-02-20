@@ -1,0 +1,3 @@
+Customer1 YamahaAerox90
+Customer2 YamahaYBR125 motorblock 100 cablesealing 10 oilchange 20
+Customer3 YamahaMT09 cablesealing 10

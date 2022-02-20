@@ -1,0 +1,3 @@
+Daniel 2017.03.02. deer 100 befar 280 fox 25
+Pete 2017.04.15 fox 30
+Sam 2017.04.05 wolf 300 rabbit 20

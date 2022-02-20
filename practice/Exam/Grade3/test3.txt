@@ -1,0 +1,3 @@
+TakeThat pop NewYork 0 40000
+AC/DC rock London 1 20000 Budapest 1 22222
+Queen rock London 1 25000 Paris 0 18000 Rome 0 31000

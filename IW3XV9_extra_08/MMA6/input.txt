@@ -1,0 +1,4 @@
+Daniel 2017.02.12. bear 246 rabbit 15 bear 324
+ABC 2017.02.12. bear 2 rabbit 15
+VBN 2017.02.12. bear 1 rabbit 15 bear 1
+QWE 2017.02.12. bear 0 rabbit 15

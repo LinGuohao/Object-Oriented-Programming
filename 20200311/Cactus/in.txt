@@ -1,0 +1,7 @@
+cactus1    Mexico  green    160
+cactus2    Hungary    red  40
+cactus3    France    lilac    100
+cactus4    Mexico  red   100
+cactus5    USA    red   180
+cactus6    Germany    yellow   170
+cactus7    Hungary    yellow   70

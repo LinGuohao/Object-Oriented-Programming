@@ -1,0 +1,12 @@
+aaa 1063Szi run100 3 swimming500 2 highjump 2
+a 1063Szi run100 1 swimming500 2 highjump 1
+b 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+Peter 1063Szi run100 1 swimming500 2 highjump 1
+

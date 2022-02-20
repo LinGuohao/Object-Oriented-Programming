@@ -1,0 +1,14 @@
+Dani zene elsozh 1 masodikzh 4 felelet 2  //Line
+Feri irodalom elsozh 4 masodikzh 5
+Feri nyelvtan elsozh 1 masodikzh 5
+Peti irodalom dolgozat 5 felelet 3 essze 1 kiseloadas 4
+Peti matematika dolgozat 5 felelet 1 szorgalmi 5
+
+Feri irodalom elsozh 4 masodikzh 5 -> (false 1)
+Feri nyelvtan elsozh 1 masodikzh 5 -> (true  1)
+                                      (false 2) //Result
+
+Dani true 0	//Student
+Feri false 2
+Peti true 3
+

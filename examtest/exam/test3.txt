@@ -1,0 +1,9 @@
+Customer2 YamahaYBR125 motorblock 100 cablesealing 10
+Customer3 YamahaMT09 cablesealing 10
+Customer3 YamahaYZF-RM1 motorblock 100
+Customer4 YamahaYBR125 variator 110
+Customer4 YamahaMT09 cablesealing 10 variator 110
+Customer4 YamahaAxis50 cablesealing 10 olajcsere 4000 variator 110
+Customer5 YamahaYBR125 motorblock 100 cablesealing 10 olajcsere 4000
+Customer1 YamahaAerox90 variator 110 cablesealing 10
+Customer1 YamahaAxis50 motorblock 100 cablesealing 10

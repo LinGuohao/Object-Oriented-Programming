@@ -1,0 +1,6 @@
+Daniel 2017.02.12 rabbit 15 fox 24 bear 30
+Daniel 2017.03.02. deer 100 bear 280 fox 25
+Jacob 2017.02.12 boar 150 bear 310
+Pete 2017.04.05 bear 300 rabbit 20
+Pete 2017.04.15 fox 30
+Sam 2017.04.05 bear 300 rabbit 20

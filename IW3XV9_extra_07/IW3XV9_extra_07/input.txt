@@ -1,0 +1,6 @@
+John	56
+Kate 32
+Roger 58
+Ann  53
+Brian 24
+Mary	12

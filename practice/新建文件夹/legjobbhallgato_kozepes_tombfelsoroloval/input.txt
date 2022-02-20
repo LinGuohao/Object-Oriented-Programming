@@ -1,0 +1,6 @@
+Peti irodalom 1zh 3 2zh 5
+Dani zene 1zh 4 2zh 4 felelet 5
+Feri irodalom dolgozat 1 felelet 1 essze 2 kiseloadas 4
+Feri matematika dolgozat 5 felelet 4 szorgalmi 5
+
+
